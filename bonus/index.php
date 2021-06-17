@@ -1,15 +1,4 @@
-<?php 
 
-if(file_exists(__DIR__.'/404-error-by-referer.php')) {
-  require_once __DIR__.'/404-error-by-referer.php';
-}
-
-if(file_exists(__DIR__.'/../404-error-by-referer.php')) {
-  require_once __DIR__.'/../404-error-by-referer.php';
-}
-
-
-?>
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -371,7 +360,7 @@ window.getUrl = function(section, key, params) {
         <span class="b-logo__arc"></span>
         <img class="b-logo svg" src="//freevulkanrussia.casa/static/img-v509/vr/web/img/svg/vr_logo.svg" alt="">    </a>
             <div class="b-header__cell center">
-            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action ">
         регистрация    </span>
 </a></noindex>
@@ -413,7 +402,7 @@ window.getUrl = function(section, key, params) {
         
     </ul>
 </div>
-            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--secondary">
         войти    </span>
 </a></noindex>
@@ -513,7 +502,7 @@ window.getUrl = function(section, key, params) {
     modalUrls['modalRecovery']       = 'https://freevulkanrussia.casa/user/recovery-token';
     modalUrls['modalNewPassword']    = 'https://freevulkanrussia.casa/token/password-recovery';
 </script>
-                            <div class="slider-holder is-shown" data-is="Slider" data-tpl-id="gammapQZ4y"><div class="slider slick-initialized slick-slider"><div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 7280px; transform: translate3d(-5200px, 0px, 0px);" role="listbox"><div class="slider__item slick-slide slick-cloned" data-slick-index="-1" style="background: url(&quot;//freevulkanrussia.casa/mogile-vr/banners/5ca70e7e0eb79.webp?v=1554461977&quot;) 50% 50% no-repeat; width: 1040px;" aria-hidden="true" tabindex="-1"><!----><div class="slider__info"><div class="slider__title">Бонус на первый депозит</div><div class="slider__text"><span style="font-size:26px"></span></div><noindex><a rel="nofollow" href="/link/gocasino.php" data-source="main_b" class="slider__btn button js-check-modal-link button--action button--big" tabindex="-1">Регистрация</a></noindex></div></div><div class="slider__item slick-slide" data-slick-index="0" style="background: url(&quot;//freevulkanrussia.casa/mogile-vr/banners/5ca70e7e0eb79.webp?v=1554461977&quot;) 50% 50% no-repeat; width: 1040px;" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide00"><!----><div class="slider__info"><div class="slider__title">Бонус на первый депозит!</div><div class="slider__text"></div><a data-source="main_b" class="slider__btn button js-check-modal-link button--action button--big" tabindex="-1">Регистрация</a></div></div><div class="slider__item slick-slide" data-slick-index="1" style="background: url(&quot;//freevulkanrussia.casa/mogile-vr/banners/5ed786137e2f1.webp?v=1594217867&quot;) 50% 50% no-repeat; width: 1040px;" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide01"><!----><div class="slider__info"><div class="slider__title">2 вида турниров!</div><div class="slider__text"><p><span style="font-size:21px">Выбирайте свой!</span></p></div><a data-source="main_b" class="slider__btn button js-check-modal-link button--action button--big" tabindex="-1">Регистрация</a></div></div><div class="slider__item slick-slide" data-slick-index="2" style="background: url(&quot;//freevulkanrussia.casa/mogile-vr/banners/5d12feca4daf9.webp?v=1561525962&quot;) 50% 50% no-repeat; width: 1040px;" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide02"><!----><div class="slider__info"><div class="slider__title"><span style="bottom:-22px; position:relative">Лучшие условия в Рунете</span></div><div class="slider__text"><span style="line-height:1px">&nbsp;</span></div><a data-source="main_b" class="slider__btn button js-check-modal-link button--action button--big" tabindex="-1">начать играть</a></div></div><div class="slider__item slick-slide" data-slick-index="3" style="background: url(&quot;//freevulkanrussia.casa/mogile-vr/banners/5b76875b57bc9.webp?v=1534494950&quot;) 50% 50% no-repeat; width: 1040px;" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide03"><!----><div class="slider__info"><div class="slider__title">Испытайте удачу</div><div class="slider__text"><span style="font-size:28px">в игре для смельчаков!</span></div><a data-source="main_b" class="slider__btn button js-check-modal-link button--action button--big" tabindex="-1">Крутить барабан</a></div></div><div class="slider__item slick-slide slick-current slick-active" data-slick-index="4" style="background: url(&quot;//freevulkanrussia.casa/mogile-vr/banners/5ca70e7e0eb79.webp?v=1554461977&quot;) 50% 50% no-repeat; width: 1040px;" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide04"><!----><div class="slider__info"><div class="slider__title">Бонус на первый депозит!</div><div class="slider__text"><span style="font-size:26px"></span></div><noindex><a rel="nofollow" href="/link/gocasino.php" data-source="main_b" class="slider__btn button js-check-modal-link button--action button--big" tabindex="0">Регистрация</a></noindex></div></div><div class="slider__item slick-slide slick-cloned" data-slick-index="5" style="background: url(&quot;//freevulkanrussia.casa/mogile-vr/banners/5ca70e7e0eb79.webp?v=1554461977&quot;) 50% 50% no-repeat; width: 1040px;" aria-hidden="true" tabindex="-1"><!----><div class="slider__info"><div class="slider__title">Бонус на первый депозит!</div><div class="slider__text"></div><a data-source="main_b" class="slider__btn button js-check-modal-link button--action button--big" tabindex="-1">Регистрация</a></div></div></div></div></div><div class="slider__pagination js-slider-pagination"></div><div class="slider__prev js-slider__prev slick-arrow" style="display: block;"></div><div class="slider__next js-slider__next slick-arrow" style="display: block;"></div></div>
+                            <div class="slider-holder is-shown" data-is="Slider" data-tpl-id="gammapQZ4y"><div class="slider slick-initialized slick-slider"><div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 7280px; transform: translate3d(-5200px, 0px, 0px);" role="listbox"><div class="slider__item slick-slide slick-cloned" data-slick-index="-1" style="background: url(&quot;//freevulkanrussia.casa/mogile-vr/banners/5ca70e7e0eb79.webp?v=1554461977&quot;) 50% 50% no-repeat; width: 1040px;" aria-hidden="true" tabindex="-1"><!----><div class="slider__info"><div class="slider__title">Бонус на первый депозит</div><div class="slider__text"><span style="font-size:26px"></span></div><noindex><a rel="nofollow" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" data-source="main_b" class="slider__btn button js-check-modal-link button--action button--big" tabindex="-1">Регистрация</a></noindex></div></div><div class="slider__item slick-slide" data-slick-index="0" style="background: url(&quot;//freevulkanrussia.casa/mogile-vr/banners/5ca70e7e0eb79.webp?v=1554461977&quot;) 50% 50% no-repeat; width: 1040px;" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide00"><!----><div class="slider__info"><div class="slider__title">Бонус на первый депозит!</div><div class="slider__text"></div><a data-source="main_b" class="slider__btn button js-check-modal-link button--action button--big" tabindex="-1">Регистрация</a></div></div><div class="slider__item slick-slide" data-slick-index="1" style="background: url(&quot;//freevulkanrussia.casa/mogile-vr/banners/5ed786137e2f1.webp?v=1594217867&quot;) 50% 50% no-repeat; width: 1040px;" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide01"><!----><div class="slider__info"><div class="slider__title">2 вида турниров!</div><div class="slider__text"><p><span style="font-size:21px">Выбирайте свой!</span></p></div><a data-source="main_b" class="slider__btn button js-check-modal-link button--action button--big" tabindex="-1">Регистрация</a></div></div><div class="slider__item slick-slide" data-slick-index="2" style="background: url(&quot;//freevulkanrussia.casa/mogile-vr/banners/5d12feca4daf9.webp?v=1561525962&quot;) 50% 50% no-repeat; width: 1040px;" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide02"><!----><div class="slider__info"><div class="slider__title"><span style="bottom:-22px; position:relative">Лучшие условия в Рунете</span></div><div class="slider__text"><span style="line-height:1px">&nbsp;</span></div><a data-source="main_b" class="slider__btn button js-check-modal-link button--action button--big" tabindex="-1">начать играть</a></div></div><div class="slider__item slick-slide" data-slick-index="3" style="background: url(&quot;//freevulkanrussia.casa/mogile-vr/banners/5b76875b57bc9.webp?v=1534494950&quot;) 50% 50% no-repeat; width: 1040px;" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide03"><!----><div class="slider__info"><div class="slider__title">Испытайте удачу</div><div class="slider__text"><span style="font-size:28px">в игре для смельчаков!</span></div><a data-source="main_b" class="slider__btn button js-check-modal-link button--action button--big" tabindex="-1">Крутить барабан</a></div></div><div class="slider__item slick-slide slick-current slick-active" data-slick-index="4" style="background: url(&quot;//freevulkanrussia.casa/mogile-vr/banners/5ca70e7e0eb79.webp?v=1554461977&quot;) 50% 50% no-repeat; width: 1040px;" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide04"><!----><div class="slider__info"><div class="slider__title">Бонус на первый депозит!</div><div class="slider__text"><span style="font-size:26px"></span></div><noindex><a rel="nofollow" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" data-source="main_b" class="slider__btn button js-check-modal-link button--action button--big" tabindex="0">Регистрация</a></noindex></div></div><div class="slider__item slick-slide slick-cloned" data-slick-index="5" style="background: url(&quot;//freevulkanrussia.casa/mogile-vr/banners/5ca70e7e0eb79.webp?v=1554461977&quot;) 50% 50% no-repeat; width: 1040px;" aria-hidden="true" tabindex="-1"><!----><div class="slider__info"><div class="slider__title">Бонус на первый депозит!</div><div class="slider__text"></div><a data-source="main_b" class="slider__btn button js-check-modal-link button--action button--big" tabindex="-1">Регистрация</a></div></div></div></div></div><div class="slider__pagination js-slider-pagination"></div><div class="slider__prev js-slider__prev slick-arrow" style="display: block;"></div><div class="slider__next js-slider__next slick-arrow" style="display: block;"></div></div>
                             
                         <div class="b-page__bg b-page__bg--invert">
                 <div class="b-center-block">
@@ -570,14 +559,14 @@ window.getUrl = function(section, key, params) {
 
 
 <div id="popular-games" class="games-list__holder"><div class="slot js-slot slot--tournament" data-key="2546"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/2546-fruit-cocktail.jpg?v=1591283992" alt="Игровой автомат Fruit Cocktail" title="Fruit Cocktail в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Fruit Cocktail</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -585,14 +574,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot slot--tournament" data-key="2516"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/2516-crazy-monkey.jpg?v=1591283097" alt="Игровой автомат Crazy Monkey" title="Crazy Monkey в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Crazy Monkey</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -600,14 +589,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="2522"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/2522-resident.jpg?v=1591283699" alt="Игровой автомат Resident" title="Resident в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Resident</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -615,14 +604,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot slot--tournament" data-key="1004"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/1004-book-of-ra.jpg?v=1586008945" alt="Игровой автомат Book of Ra" title="Book of Ra в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Book of Ra</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -630,14 +619,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="2558"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/2558-fruit-cocktail-2.jpg?v=1591284123" alt="Игровой автомат Fruit Cocktail 2" title="Fruit Cocktail 2 в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Fruit Cocktail 2</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -645,14 +634,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="2552"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/2552-garage.jpg?v=1591284053" alt="Игровой автомат Garage" title="Garage в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Garage</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -660,14 +649,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="2534"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/2534-gnome.jpg?v=1591283864" alt="Игровой автомат Gnome" title="Gnome в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Gnome</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -675,14 +664,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot slot--tournament" data-key="1001"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/1001-dolphins-pearl.jpg?v=1586008945" alt="Игровой автомат Dolphin&#039;s Pearl" title="Dolphin&#039;s Pearl в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Dolphin&#039;s Pearl</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -690,14 +679,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot slot--tournament" data-key="1079"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/1079-bananas-go-bahamas.jpg?v=1586252379" alt="Игровой автомат Bananas go Bahamas" title="Bananas go Bahamas в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Bananas go Bahamas</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -705,14 +694,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot slot--tournament" data-key="1022"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/1022-lucky-ladys-charm.jpg?v=1586008947" alt="Игровой автомат Lucky Lady&#039;s Charm" title="Lucky Lady&#039;s Charm в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Lucky Lady&#039;s Charm</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -720,14 +709,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="2528"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/2528-keks.jpg?v=1591283789" alt="Игровой автомат Keks" title="Keks в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Keks</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -735,14 +724,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="2540"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/2540-rock-climber.jpg?v=1591283937" alt="Игровой автомат Rock Climber" title="Rock Climber в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Rock Climber</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -750,14 +739,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="1631"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/1631-eye-of-horus.jpg?v=1588935475" alt="Игровой автомат Eye of Horus" title="Eye of Horus в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Eye of Horus</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -765,14 +754,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="1244"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/1244-book-of-ra-deluxe.jpg?v=1588930942" alt="Игровой автомат Book of Ra Deluxe" title="Book of Ra Deluxe в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Book of Ra Deluxe</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -780,14 +769,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="1815"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/1815-reel-catch.jpg?v=1588935639" alt="Игровой автомат Reel Catch" title="Reel Catch в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Reel Catch</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -795,14 +784,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="1668"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/1668-book-of-ra-deluxe-6.jpg?v=1574942186" alt="Игровой автомат Book of Ra Deluxe 6" title="Book of Ra Deluxe 6 в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Book of Ra Deluxe 6</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -810,14 +799,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="1995"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/1995-sizzling-hot-6-extra-gold.jpg?v=1588934959" alt="Игровой автомат Sizzling Hot 6 Extra Gold" title="Sizzling Hot 6 Extra Gold в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Sizzling Hot 6 Extra Gold</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -825,14 +814,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="2172"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/2172-first-class-traveller.jpg?v=1588935277" alt="Игровой автомат First Class Traveller" title="First Class Traveller в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">First Class Traveller</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -840,14 +829,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot slot--new" data-key="2326"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/2326-pharaohs-tomb.jpg?v=1589270363" alt="Игровой автомат Pharaoh&#039;s Tomb" title="Pharaoh&#039;s Tomb в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Pharaoh&#039;s Tomb</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -855,14 +844,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="2037"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/2037-book-of-ra-magic.jpg?v=1588935254" alt="Игровой автомат Book of Ra Magic" title="Book of Ra Magic в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Book of Ra Magic</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -870,14 +859,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="2498"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/2498-lucky-haunter.jpg?v=1591283002" alt="Игровой автомат Lucky Haunter" title="Lucky Haunter в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Lucky Haunter</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -885,14 +874,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="1076"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/1076-the-money-game.jpg?v=1588931446" alt="Игровой автомат The Money Game" title="The Money Game в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">The Money Game</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -900,14 +889,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="1661"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/1661-garden-of-riches.jpg?v=1586009011" alt="Игровой автомат Garden of Riches" title="Garden of Riches в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Garden of Riches</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -915,14 +904,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="2492"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/2492-sweet-life-2.jpg?v=1591282968" alt="Игровой автомат Sweet Life 2" title="Sweet Life 2 в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Sweet Life 2</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -930,14 +919,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="1277"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/1277-diamond-trio.jpg?v=1589270621" alt="Игровой автомат Diamond Trio" title="Diamond Trio в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Diamond Trio</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -945,14 +934,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="1103"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/1103-always-hot.jpg?v=1588924609" alt="Игровой автомат Always Hot" title="Always Hot в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Always Hot</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
@@ -960,14 +949,14 @@ window.getUrl = function(section, key, params) {
 </div>
 </div>
 <div class="slot js-slot" data-key="1144"><div class="slot__link">
-        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="/link/gocasino.php" class="slot__box-img">
+        <noindex><a rel="nofollow" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex" class="slot__box-img">
         <img class="slot__thumb" src="//freevulkanrussia.casa/mogile-vr/1144-sharky.jpg?v=1586008959" alt="Игровой автомат Sharky" title="Sharky в казино Вулкан Россия">    </a></noindex>
     <div class="slot__name">Sharky</div>
     <div class="slot__buttons">
                     <a class="button button--secondary slot__btn slot__btn--l">
                 Демо
             </a>
-                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="/link/gocasino.php">
+                            <noindex><a rel="nofollow" data-dismiss="modal" data-toggle="modal" data-target="" href="https://adretarget.net/go/9b5911f7c401426b34c3e4242aaa9b3e365b64d1eb0a0b0b/?subid=freevulkanrussia.casa_yandex">
     <span class="button button--action button--invert-action slot__btn slot__btn--r">
         Играть    </span>
 </a></noindex>
